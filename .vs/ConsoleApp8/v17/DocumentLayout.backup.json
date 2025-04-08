@@ -22,8 +22,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Book.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Book.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Book.cs",
+              "RelativeToolTip": "ConsoleApp8\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:25:23.652Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -40,22 +54,9 @@
               "RelativeDocumentMoniker": "ConsoleApp8\\Library.cs",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Library.cs",
               "RelativeToolTip": "ConsoleApp8\\Library.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T04:25:47.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Book.cs",
-              "RelativeDocumentMoniker": "ConsoleApp8\\Book.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Book.cs*",
-              "RelativeToolTip": "ConsoleApp8\\Book.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T04:25:23.652Z",
               "EditorCaption": ""
             },
             {
@@ -66,7 +67,7 @@
               "RelativeDocumentMoniker": "ConsoleApp8\\Program.cs",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Program.cs",
               "RelativeToolTip": "ConsoleApp8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T04:21:16.772Z",
               "EditorCaption": ""
